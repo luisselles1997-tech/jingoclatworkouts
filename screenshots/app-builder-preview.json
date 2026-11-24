@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "CrossFit Log",
+      "hasCanvas": false,
+      "bodyTextLen": 42,
+      "bodyTextHash": "d4ef3bb792af3a448bea9b2ceb429429d5f1f84a70800e2b51e495a5c842b031",
+      "bodyTextPrefix": "FOR THE BOX CROSSFIT LOG Opening your log…",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "CrossFit Log",
+      "hasCanvas": false,
+      "bodyTextLen": 42,
+      "bodyTextHash": "d4ef3bb792af3a448bea9b2ceb429429d5f1f84a70800e2b51e495a5c842b031",
+      "bodyTextPrefix": "FOR THE BOX CROSSFIT LOG Opening your log…",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

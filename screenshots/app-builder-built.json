@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "CrossFit Log",
+      "hasCanvas": false,
+      "bodyTextLen": 246,
+      "bodyTextHash": "b7cf7196084645d337a1176efb4c8446e12d8656785c536415b54f268b7094b6",
+      "bodyTextPrefix": "FOR THE BOX CROSSFIT LOG Each athlete signs in on their own phon",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "CrossFit Log",
+      "hasCanvas": false,
+      "bodyTextLen": 246,
+      "bodyTextHash": "b7cf7196084645d337a1176efb4c8446e12d8656785c536415b54f268b7094b6",
+      "bodyTextPrefix": "FOR THE BOX CROSSFIT LOG Each athlete signs in on their own phon",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text changed (42 -> 246 chars, hash mismatch)",
+    "mobile: body text changed (42 -> 246 chars, hash mismatch)"
+  ]
+}
